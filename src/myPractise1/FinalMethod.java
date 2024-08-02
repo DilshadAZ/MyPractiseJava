@@ -1,6 +1,6 @@
 package myPractise1;
 
-class Demo {
+class Demo2 {
 	public void show(int a, int b) {
 		System.out.println(a + b);
 	}
@@ -11,10 +11,10 @@ class Demo {
 }
 
 /*
-
 class AdvancedShow extends Demo {
-	public void show2() {// cant make the method as i declare final in line number 8. noone can use the method
-	System.out.println("You are mine");
+	
+	public  void show2() {// cant make the method as i declare final in line number 8. noone can use the method
+	System.out.println("You are good");
 	}
 }
 
@@ -25,6 +25,5 @@ public class FinalMethod {
 		obj.show(5, 4);
 		obj.show2();
 	}
-
-}
 */
+

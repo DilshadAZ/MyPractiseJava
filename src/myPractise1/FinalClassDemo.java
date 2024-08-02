@@ -3,7 +3,7 @@ package myPractise1;
 public class FinalClassDemo {
 
 	public static void main(String[] args) {
-		Demo obj = new Demo();
+		Demo2 obj = new Demo2();
 		obj.show2();
 		obj.show(4, 6);
 
@@ -27,5 +27,4 @@ public class FinalClassDemo {
 			System.out.println("x:my name");
 	}
 
-}
-*/
+}*/
