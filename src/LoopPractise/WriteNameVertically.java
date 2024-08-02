@@ -1,4 +1,4 @@
-package LoopPractise;
+package loopPractise;
 
 public class WriteNameVertically {
 
