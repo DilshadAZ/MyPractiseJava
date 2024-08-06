@@ -10,6 +10,7 @@ public class Toyota extends Cars implements Design, ElectricFaciliity{
 	//System.out.println(Model);
 	//printInfo();
 	//printTruckInfo();
+	
 	Toyota obj = new Toyota();
 	//obj.printInfo3(Model);
 	//obj.printInfo3(Model, year);
@@ -23,7 +24,7 @@ public class Toyota extends Cars implements Design, ElectricFaciliity{
 	obj1.setEnengineID("njn09090");
 	obj1.setVin(90);
 	//obj1.getEnengineID();
-	System.out.println(obj1.getChesis());// we only get chesis as we did the getter method, not the setter method.
+	//System.out.println(obj1.getChesis());// we only get chesis as we did the getter method, not the setter method.
  
 	
 	
@@ -31,6 +32,8 @@ public class Toyota extends Cars implements Design, ElectricFaciliity{
 		
 	}
 	void printInfo3() {
+		super.printInfo3(Model);
+		System.out.println(Model);
 		//System.out.println("");
 		
 	}

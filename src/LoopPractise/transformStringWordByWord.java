@@ -1,6 +1,6 @@
 package loopPractise;
 
-public class transformStringWordByWord {
+public class TransformStringWordByWord {
 
 	public static void main(String[] args) {
 		String words = "Dilshad Zannat";
@@ -17,5 +17,8 @@ public class transformStringWordByWord {
 	  }
 	  
 	 
+ 
  }
+	
+
 }

@@ -1,4 +1,4 @@
-package mapAndSet;
+package collectionFramework;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -25,8 +25,12 @@ public class SetPractise {
 			set1.add("Tania");
 			set1.add("Irisha");
 			
+			
+			
 			for (String number:set1)
+				
 				System.out.println(number);
+			
 			
 			
 			

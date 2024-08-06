@@ -23,6 +23,7 @@ public class arrayList2 {
 	name.add(7, "AY");
 	name.add(6, "LY");
 	name.set(0, "Allll");
+	
 	/*System.out.println(name.get(0));
 	System.out.println(name);
 	System.out.println(name.get(5));

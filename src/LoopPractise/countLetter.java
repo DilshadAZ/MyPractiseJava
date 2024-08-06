@@ -1,6 +1,6 @@
 package loopPractise;
 
-public class countLetter {
+public class CountLetter {
 
 	public static void main(String[] args) {
 		String name  ="DilddddDDDDshiiiad";

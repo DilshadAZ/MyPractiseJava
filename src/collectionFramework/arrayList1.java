@@ -12,17 +12,19 @@ public class arrayList1 {
 		ids [3]=60;
 	
 		
-		System.out.println(ids[3]);
+		//System.out.println(ids[3]);
 	
 		ArrayList name = new ArrayList ();
 		name.add("AAA");
 		name.add("BBB");
 		name.add("CCC");
 		name.add("DDD");
+	
 		System.out.println(name.get(3));
-		System.out.println(name.get(name.size()-2));
-		System.out.println(name);
-		System.out.println("The size of the ArrayList is " + name.size() + "\n");
+		System.out.println(name.get(0));
+		System.out.println(name.get(name.size()-1));
+		System.out.println(name.size());
+		//System.out.println("The size of the ArrayList is " + name.size() + "\n");
 		
 
 	}
